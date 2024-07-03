@@ -41,11 +41,11 @@
 
 ### Level 2
 - Integrate Antd components
-	- [ ] Table: Use Ant Design's table component to display the data.
-	- [ ] Buttons: Replace existing buttons with Ant Design's button components.
-	- [ ] Inputs: Use Ant Design's input components for forms.
+	- [x] Table: Use Ant Design's table component to display the data.
+	- [x] Buttons: Replace existing buttons with Ant Design's button components.
+	- [x] Inputs: Use Ant Design's input components for forms.
 - Fix Existing Issues: 
-	- [ ] Form Reset on Submission: Ensure that after submitting the form, the values in the name and email input fields are cleared.
+	- [x] Form Reset on Submission: Ensure that after submitting the form, the values in the name and email input fields are cleared.
 
 ![image](https://github.com/impressai/frontend_task/assets/28563570/65eda298-0f5b-4923-bbcc-45f7caf1b758)
 
@@ -53,7 +53,7 @@
 
 ### Level 3
 - Add delete functionality:
-	- [ ] Delete for Each User: Implement a delete feature for each user entry
+	- [x] Delete for Each User: Implement a delete feature for each user entry
 
 ![image](https://github.com/impressai/frontend_task/assets/28563570/c3da4f55-6e89-47cc-bbde-35e3c20f80f6)
 
@@ -62,7 +62,7 @@
 
 ### Level 4
 - Add edit functionality:
-	- [ ] Edit for Each User: Implement a edit feature for each user entry
+	- [x] Edit for Each User: Implement a edit feature for each user entry
 
 ![image](https://github.com/impressai/frontend_task/assets/28563570/67fd80fc-c022-41b3-8f01-de11de046379)
 
